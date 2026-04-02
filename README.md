@@ -1,17 +1,14 @@
 ### 👋 Hi, I'm Sara Abukhalaf
 
-I’m a recent graduate with a B.S. in Computer Science and a concentration in Data Science and Big Data. I enjoy transforming raw data into meaningful insights and building smart, user-friendly applications. My work spans data analysis, machine learning, full-stack development, and real-world problem solving.
-
-📌 I'm currently seeking opportunities in data science, analytics, and software development where I can continue learning and contribute to impactful projects.
+I’m currently pursuing a Master’s in Computer Science at Georgia Tech with a focus on Artificial Intelligence and Machine Learning. I graduated with a B.S. in Computer Science with a concentration in Data Science and Big Data. I enjoy working on real-world problems, building scalable applications, and using data to drive meaningful insights. My experience spans software development, data analysis, and backend systems.
 
 ---
 
 #### 🔧 Skills & Tools
-- **Languages:** Python, SQL, R, JavaScript, TypeScript, HTML/CSS, C
-- **Frameworks & Tools:** React Native, Node.js, Express, Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV
-- **Databases:** MySQL, PostgreSQL
-- **Other:** Jupyter Notebook, Git/GitHub, Tableau, Power BI, AWS, Docker
-
+- **Languages:** Python, SQL, JavaScript, TypeScript, Java
+- **Frameworks & Tools:** React, Node.js, Pandas, NumPy, Matplotlib, Scikit-learn
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Other:** AWS (Lambda, API Gateway, S3), Git/GitHub, Docker, Postman, Jupyter Notebook
 ---
 
 #### 📁 Featured Projects
